@@ -14,7 +14,7 @@ Python versions 3.*
 ## Project Motivation
 This project part of Data Science Nanodegree, and the objective is to try to find how Starbucks customer will respond to an offer based on demographics and offer type.
 
-## data
+## Data
 - portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.).
 - profile.json - demographic data for each customer.
 - transcript.json - records for transactions, offers received, offers viewed, and offers completed.
