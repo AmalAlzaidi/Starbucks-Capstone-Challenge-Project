@@ -1,6 +1,6 @@
 # Starbucks-Capstone-Challenge-Project
 
-
+Blog Post : [Starbucks Capstone Challenge](https://medium.com/@aml.alzaidi/starbucks-capstone-challenge-173d2ab5c4af?source=friends_link&sk=d9fcba5d4c6521f51619c934a510510d)
 ## Installation
 Python versions 3.*
 
